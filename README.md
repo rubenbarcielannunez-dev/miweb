@@ -8,8 +8,10 @@ Los videojuegos son una de las formas de **ocio** más populares del planeta. De
 
 Los primeros juegos eran sencillos, pero ***revolucionaron*** la forma de entretenerse. Antes se jugaba solo en casa, ~~ahora ya nadie juega con amigos~~ ahora se juega también en línea con gente de todo el mundo.
 
-![Mando y escritorio gaming]("C:\Users\HP\Desktop\marcas\mando.jpg")
-![Mando y escritorio gaming]("C:\Users\HP\Desktop\marcas\mando.jpg"C:\Users\HP\Desktop\marcas\miweb2.jpg")
+![Mando y escritorio gaming]("<img width="960" height="1200" alt="miweb2" src="https://github.com/user-attachments/assets/625bd5dc-04b1-4d29-8292-cbaec25f431f" />
+")
+![Mando y escritorio gaming]("<img width="256" height="256" alt="mando" src="https://github.com/user-attachments/assets/8c3da0ab-e0e3-41c8-a490-0cbecd125a81" />
+")
 
 > "Los videojuegos son una forma de arte interactiva que une tecnología, diseño y narrativa."
 
@@ -55,7 +57,8 @@ Los primeros juegos eran sencillos, pero ***revolucionaron*** la forma de entret
 
 ## Curiosidad: arcades
 
-![Recreativas clásicas]("C:\Users\HP\Desktop\marcas\miweb1.jpg")
+![Recreativas clásicas]("<img width="1444" height="2100" alt="miweb1" src="https://github.com/user-attachments/assets/ba4449a8-d023-468f-923d-bbd7668a3d46" />
+")
 
 Las máquinas **arcade** fueron el origen de muchos juegos actuales.
 
